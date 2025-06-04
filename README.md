@@ -16,7 +16,7 @@ I'm a Full Stack Developer with a passion for AI and Flutter! Let's build the fu
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-</div>)
+</div>
 
 
 
