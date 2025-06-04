@@ -48,8 +48,8 @@ I'm a Full Stack Developer with a passion for AI and Flutter! Let's build the fu
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesMcDaniel04&show_icons=true&theme=radical&hide_border=true)
   
-  **🌟 Total Stars Earned:** ![GitHub User's stars](https://img.shields.io/github/stars/JamesMcDaniel04?style=social)  
-  **🔀 Total PRs:** ![GitHub pull requests](https://img.shields.io/github/issues-pr/JamesMcDaniel04/Quizzler_Flutter_Challenge) 
+   ![GitHub User's stars](https://img.shields.io/github/stars/JamesMcDaniel04?style=social)  
+   ![GitHub pull requests](https://img.shields.io/github/issues-pr/JamesMcDaniel04/Quizzler_Flutter_Challenge) 
   
 </div>
 
