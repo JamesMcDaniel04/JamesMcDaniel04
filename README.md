@@ -39,7 +39,7 @@ I'm a Full Stack Developer with a passion for AI and Flutter! Let's build the fu
 • 📚 Fun fact: I've completed 6+ AI/ML certifications in 2025 already!  
 • ⚡ I love helping early-stage startups grow through technical innovation!
 
----)
+
 
 <div align="center">
   <h3>James McDaniel's GitHub Stats</h3>
