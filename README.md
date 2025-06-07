@@ -1,4 +1,4 @@
-# Hi there I'm James 👋🏿
+# Hi there I'm James 👋
 
 I'm a Full Stack Developer with a passion for AI and Flutter! Let's build the future together!
 
@@ -20,7 +20,7 @@ I'm a Full Stack Developer with a passion for AI and Flutter! Let's build the fu
 
 
 
-## 🫱🏿‍🫲🏻 Let's Connect!
+## 🫱 Let's Connect!
 
 
 
