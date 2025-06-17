@@ -32,11 +32,13 @@ I'm a Full Stack Developer with a passion for AI and Flutter! Let's build the fu
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-Floor_App-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.joinfloor.app/)
+[![Website – Floor App](https://img.shields.io/badge/Website-Floor_App-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.joinfloor.app/)
+[![Website – SprintIQ](https://img.shields.io/badge/Website-SprintIQ-000000?style=for-the-badge&labelColor=555555&logo=globe&logoColor=white)](https://www.sprintiq.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@joinfloor.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flio/)
 
 </div>
+
 
 ---
 
