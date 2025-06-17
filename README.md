@@ -67,11 +67,18 @@ I'm a Full Stack Developer with a passion for AI and Flutter! Let's build the fu
 
 ## 🎓 Recent AI/ML Certifications (2025)
 
-- **LLM Advanced Data Analysis** - Vanderbilt University
-- **Generative AI Introduction and Applications** - IBM  
-- **LLM Prompt Engineering** - Vanderbilt University
-- **Developing AI Applications with Python and Flask** - IBM
-- **Fundamentals of AI Agents using RAG and LangChain** - IBM
+<div align="center">
+
+[![IBM: Generative AI with LLMs](https://img.shields.io/badge/IBM-GenAI_with_LLMs-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/5TPAAVAO04MD)
+[![Vanderbilt: Prompt Engineering for ChatGPT](https://img.shields.io/badge/Vanderbilt-Prompt_Engineering-4B1869?style=for-the-badge)](https://www.coursera.org/account/accomplishments/verify/7BXQ47W3WVW7)
+[![DeepLearning.AI: LangChain for LLM App Development](https://img.shields.io/badge/DeepLearning.AI-LangChain_Apps-AA2B1D?style=for-the-badge)](https://www.coursera.org/account/accomplishments/verify/X8ZEL6TS9RJ5)
+[![DeepLearning.AI: Build LLM Apps with LangChain](https://img.shields.io/badge/DeepLearning.AI-Build_LLM_Apps-AA2B1D?style=for-the-badge)](https://www.coursera.org/account/accomplishments/verify/RY35C154EBBF)
+[![DeepLearning.AI: Generative AI Specialization](https://img.shields.io/badge/DeepLearning.AI-GenAI_Specialization-AA2B1D?style=for-the-badge)](https://www.coursera.org/account/accomplishments/specialization/1UEV3S2F7150)
+[![Google Cloud: GenAI Studio](https://img.shields.io/badge/Google_Cloud-GenAI_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/T7YTXFUUI420)
+[![Google Cloud: Digital Leader](https://img.shields.io/badge/Google_Cloud-Digital_Leader-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/c6a24a9e-d054-46d3-ad06-d7704f07e73c/linked_in_profile)
+[![Udemy: Python for Machine Learning](https://img.shields.io/badge/Udemy-Python_ML-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-e2b9886d-2e4e-4183-a815-bf19f3b23615/)
+
+</div>
 
 ---
 
