@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer with a passion for AI and Flutter! Let's build the future together!
 
-<div align="center">More actions
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
