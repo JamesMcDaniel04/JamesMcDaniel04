@@ -53,15 +53,24 @@ I'm a Full Stack Developer with a passion for AI and Flutter! Let's build the fu
 
 <div align="center">
   <h3>James McDaniel's GitHub Stats</h3>
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesMcDaniel04&commits_year=2025&show_icons=true&theme=radical&hide_border=true&cache_seconds=800)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMcDaniel04&layout=compact)
-  
-   ![GitHub User's stars](https://img.shields.io/github/stars/JamesMcDaniel04?style=social)  
-   ![GitHub pull requests](https://img.shields.io/github/issues-pr/JamesMcDaniel04/Quizzler_Flutter_Challenge) 
-  
+  <a href="https://github.com/JamesMcDaniel04" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JamesMcDaniel04&commits_year=2025&show_icons=true&theme=radical&hide_border=true&cache_seconds=800" />
+  </a>
+
+  <a href="https://github.com/JamesMcDaniel04?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMcDaniel04&layout=compact" />
+  </a>
+
+  <a href="https://github.com/JamesMcDaniel04?tab=stars" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/JamesMcDaniel04?style=social" />
+  </a>
+
+  <a href="https://github.com/JamesMcDaniel04/Quizzler_Flutter_Challenge/pulls" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/JamesMcDaniel04/Quizzler_Flutter_Challenge" />
+  </a>
 </div>
+
 
 ---
 
