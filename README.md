@@ -54,9 +54,12 @@ I'm a Full Stack Developer with a passion for AI and Flutter! Let's build the fu
 <div align="center">
   <h3>James McDaniel's GitHub Stats</h3>
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesMcDaniel04&show_icons=true&theme=radical&hide_border=true&cache_seconds=800)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesMcDaniel04&layout=compact&theme=radical&hide_border=true)
+  <!-- GitHub Profile Summary Cards (More reliable) -->
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamesMcDaniel04&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JamesMcDaniel04&theme=radical)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JamesMcDaniel04&theme=radical&utcOffset=8)
   
+  <!-- Simple badges -->
   ![GitHub User's stars](https://img.shields.io/github/stars/JamesMcDaniel04?style=social&label=Total%20Stars)
   ![GitHub followers](https://img.shields.io/github/followers/JamesMcDaniel04?style=social)
   
