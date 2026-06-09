@@ -23,6 +23,13 @@ I'm a Full Stack Developer with a passion for AI and Flutter! Let's build the fu
 
 </div>
 
+<div align="center">
+
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
 
 
 ## 🫱 Let's Connect!
@@ -85,13 +92,6 @@ I'm a Full Stack Developer with a passion for AI and Flutter! Let's build the fu
 
 ---
 
-<div align="center">
-
-<br/>
-
-![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
-
-<br/>
 
 <a href="https://github.com/CelaDaniel" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
